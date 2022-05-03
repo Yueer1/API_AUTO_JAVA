@@ -23,6 +23,7 @@ public class JsonPath {
                 .post("http://api.lemonban.com/futureloan/member/login").asString();
         int anInt = from(body).getInt("data.id");
         System.out.println(anInt);*/
+        System.out.println("你好啊");
 }
 
 }
