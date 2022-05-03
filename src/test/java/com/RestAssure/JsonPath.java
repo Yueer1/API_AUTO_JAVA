@@ -24,6 +24,7 @@ public class JsonPath {
         int anInt = from(body).getInt("data.id");
         System.out.println(anInt);*/
         System.out.println("你好啊");
+        System.out.println("你好啊123");
 }
 
 }
