@@ -25,6 +25,7 @@ public class JsonPath {
         System.out.println(anInt);*/
         System.out.println("你好啊");
         System.out.println("你好啊123");
+        System.out.println("推送");
 }
 
 }
