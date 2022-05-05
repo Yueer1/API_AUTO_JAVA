@@ -1,0 +1,48 @@
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":1001,"msg":"账号信息错误","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：1001,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：账号信息错误,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":1,"msg":"手机号码为空","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：1,期望值是：{"$.code":1,"$.msg":"手机号码为空"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：手机号码为空,期望值是：{"$.code":1,"$.msg":"手机号码为空"}
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":2,"msg":"无效的手机格式","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：2,期望值是：{"$.code":2,"$.msg":"无效的手机格式"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：无效的手机格式,期望值是：{"$.code":2,"$.msg":"无效的手机格式"}
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":1001,"msg":"账号信息错误","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：1001,期望值是：{"$.code":1001,"$.msg":"账号信息错误"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：账号信息错误,期望值是：{"$.code":1001,"$.msg":"账号信息错误"}
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":1001,"msg":"账号信息错误","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：1001,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：账号信息错误,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":2,"msg":"无效的手机格式","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：2,期望值是：{"$.code":0,"$.msg":"OK","$.data.mobile_phone":"湖北省荆州市赛挡路2713号碳勇喻小区1单元1843室"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：无效的手机格式,期望值是：{"$.code":0,"$.msg":"OK","$.data.mobile_phone":"湖北省荆州市赛挡路2713号碳勇喻小区1单元1843室"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：null,期望值是：{"$.code":0,"$.msg":"OK","$.data.mobile_phone":"湖北省荆州市赛挡路2713号碳勇喻小区1单元1843室"}
+2022-05-01 18:46:36 INFO  HttpUtils:76 - {"code":1005,"msg":"JWT strings must contain exactly 2 period characters. Found: 0","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：1005,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:36 ERROR BaseCase:97 - 断言失败，实际值是：JWT strings must contain exactly 2 period characters. Found: 0,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":1005,"msg":"JWT strings must contain exactly 2 period characters. Found: 0","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：1005,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：JWT strings must contain exactly 2 period characters. Found: 0,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":2,"msg":"余额必须大于0并且小于或者等于500000","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：2,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：余额必须大于0并且小于或者等于500000,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":2,"msg":"数字格式化异常","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：2,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：数字格式化异常,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":1005,"msg":"JWT strings must contain exactly 2 period characters. Found: 0","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：1005,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：JWT strings must contain exactly 2 period characters. Found: 0,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":2,"msg":"数字格式化异常","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：2,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：数字格式化异常,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":1004,"msg":"JSON parse error: Unrecognized token '$': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token '$': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 17]","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：1004,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：JSON parse error: Unrecognized token '$': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token '$': was expecting ('true', 'false' or 'null')
+ at [Source: (PushbackInputStream); line: 1, column: 17],期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":1001,"msg":"账号信息错误","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：1001,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：账号信息错误,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 INFO  HttpUtils:76 - {"code":1004,"msg":"JSON parse error: Unrecognized token '$': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token '$': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 16]","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：1004,期望值是：{"$.code":0,"$.msg":"OK"}
+2022-05-01 18:46:37 ERROR BaseCase:97 - 断言失败，实际值是：JSON parse error: Unrecognized token '$': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token '$': was expecting ('true', 'false' or 'null')
+ at [Source: (PushbackInputStream); line: 1, column: 16],期望值是：{"$.code":0,"$.msg":"OK"}

@@ -1,0 +1,1 @@
+{"uuid":"5570476b-f496-40cc-bbd6-55e3ee2fac44","name":"com.api.cases.addLoanCase","start":1651401997287,"stop":1651401997401,"children":["9846f0b0-f2ea-43f7-9f62-ea5b4465b474"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","start":1651401997287,"stop":1651401997288}]}

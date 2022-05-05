@@ -1,0 +1,1 @@
+{"uuid":"f82f739c-5fbc-489f-b21c-dadbf40e9629","name":"com.api.cases.LoginCase","start":1651401997402,"stop":1651401997533,"children":["b68d04c4-3158-40c4-a007-3b344bb23919"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","start":1651401997403,"stop":1651401997403}]}
